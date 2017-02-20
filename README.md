@@ -26,4 +26,4 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: ./Input\ Image.jpeg
+[1]: CVIP/Input Image.jpeg
