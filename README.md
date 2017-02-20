@@ -6,6 +6,9 @@ This Project detects the boundary points of the object in a given image. By appl
 #Input Image
 ![input image](https://cloud.githubusercontent.com/assets/25837151/23134422/c77068c4-f7ba-11e6-93a4-73dd4a4c29a4.jpeg)
 
+#Output Image
+![output image](https://cloud.githubusercontent.com/assets/25837151/23134471/f62b1eac-f7ba-11e6-85bb-f14723ef7f10.png)
+
 Developed By
 ------------
 * Arbaaz Singh Sidhu - <arbaazsi@buffalo.edu>
